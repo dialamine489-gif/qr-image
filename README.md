@@ -26,8 +26,6 @@
 <body>
   <h1>HEURES DE PRIERES</h1>
   <img src="image.jpeg" alt="Image QR">
-  <p>
-    BIENVENUE DANS LA PAGE ALI IBN ABOU TALIB
-  </p>
+  <p> BIENVENUE DANS LA PAGE ALI IBN ABOU TALIB </p>
 </body>
 </html>
