@@ -9,7 +9,7 @@
       font-family: Arial, sans-serif;
       text-align: center;
       padding: 20px;
-    };
+    }
     h1 {
       margin-bottom: 15px;
     }
@@ -23,15 +23,11 @@
     }
  </style>
   </head>
-
 <body>
   <h1>HEURES DE PRIERES</h1>
-
   <img src="image.jpeg" alt="Image QR">
-
   <p>
     BIENVENUE DANS LA PAGE ALI IBN ABOU TALIB
   </p>
 </body>
-
 </html>
