@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
+  <head>
   <meta charset="UTF-8">
   <title>QR Image</title>
   <style>
@@ -21,8 +21,9 @@
       margin-top: 15px;
       font-size: 16px;
     }
-  </style>
-</head>
+ </style>
+
+  </head>
 
 <body>
   <h1>HEURES DE PRIERES</h1>
