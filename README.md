@@ -3,13 +3,13 @@
   <head>
   <meta charset="UTF-8">
   <title>QR Image</title>
-  <style>
+    <style>
     body {
       margin: 0;
       font-family: Arial, sans-serif;
       text-align: center;
       padding: 20px;
-    }
+    };
     h1 {
       margin-bottom: 15px;
     }
