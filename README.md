@@ -22,7 +22,6 @@
       font-size: 16px;
     }
  </style>
-
   </head>
 
 <body>
@@ -34,4 +33,5 @@
     BIENVENUE DANS LA PAGE ALI IBN ABOU TALIB
   </p>
 </body>
+
 </html>
