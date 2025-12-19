@@ -30,7 +30,6 @@
   <img src="image.jpeg" alt="Image QR">
 
   <p>
-    Voici le texte qui s’affiche sous l’image.<br>
     BIENVENUE DANS LA PAGE ALI IBN ABOU TALIB
   </p>
 </body>
